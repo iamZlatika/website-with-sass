@@ -1,5 +1,6 @@
 @import "config";
 @import "utilities";
+@import "item-grid";
 
 * {
   margin: 0;
@@ -260,6 +261,7 @@ img {
     }
   }
 }
+
 
 #main-footer {
   background: $dark-color;
